@@ -40,5 +40,4 @@ T& CustomList<T>::operator[](const int index) {
         curr = curr->next;
         counter++;
     }
-
 }
